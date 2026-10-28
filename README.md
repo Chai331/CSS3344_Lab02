@@ -1,4 +1,4 @@
-# Lab_02
+# CSS3344 Lab 02 - Flutter UI and Interactive Pickers
 
 A new Flutter project.
 
